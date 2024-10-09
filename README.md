@@ -1,5 +1,4 @@
-# soderbacka.github.io
-""<Daniel Söderbacka>web exercise
+# <Daniel Söderbacka> web exercise
 
 ## Italics and Bold
 
